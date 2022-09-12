@@ -1,6 +1,3 @@
-from cgi import print_arguments
-
-
 class Usuario:		
     def __init__(self, name, email):
         self.name = name
